@@ -8,7 +8,7 @@ This paper presents an efficient method for frequency-constrained optimization o
 
 
 ## Reference
-Kaveh, A., and Biabani Hamedani, K. (2024). A hybridization of growth optimizer and improved arithmetic optimization algorithm and its application to discrete structural optimization. Computers & Structures, 303, 107496. https://doi.org/10.1016/j.compstruc.2024.107496
+Kaveh, A., Biabani Hamedani, K., and Hosseini, S.M. “Frequency-constrained optimization of large-scale cyclically symmetric domes using improved hybrid growth optimizer”, Manuscript under review at Scientia Iranica, (2025).
 
 
 
