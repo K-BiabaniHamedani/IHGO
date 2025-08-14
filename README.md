@@ -1,4 +1,4 @@
-# Improved Hybrid Growth Optimizer (IHGO)
+# Frequency-constrained optimization of large-scale cyclically symmetric domes using improved hybrid growth optimizer
 
 
 
