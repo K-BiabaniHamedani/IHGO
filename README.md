@@ -7,6 +7,16 @@ This paper presents an efficient method for frequency-constrained optimization o
 
 
 
+## Pseudocode of the Improved Hybrid Growth Optimizer (IHGO) Algorithm
+![Figure 3](https://github.com/user-attachments/assets/6847fc70-4259-4691-8f88-5287d761701f)
+
+
+
+## Flowchart of the Improved Hybrid Growth Optimizer (IHGO) Algorithm
+![Figure 4](https://github.com/user-attachments/assets/9c0fc9be-902b-459a-a552-a621c4613b9a)
+
+
+
 ## Reference
 Kaveh, A., Biabani Hamedani, K., and Hosseini, S.M. (2025). Frequency-constrained optimization of large-scale cyclically symmetric domes using improved hybrid growth optimizer. Scientia Iranica. https://doi.org/10.24200/sci.2025.66274.9952
 
