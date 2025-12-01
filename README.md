@@ -18,7 +18,7 @@ This paper presents an efficient method for frequency-constrained optimization o
 
 
 ## Reference
-Kaveh, A., Biabani Hamedani, K., and Hosseini, S.M. (2025). Frequency-constrained optimization of large-scale cyclically symmetric domes using improved hybrid growth optimizer. ***Scientia Iranica***. https://doi.org/10.24200/sci.2025.66274.9952
+Kaveh, A., Biabani Hamedani, K., and Hosseini, S.M. (2025). *Frequency-constrained optimization of large-scale cyclically symmetric domes using improved hybrid growth optimizer*. ***Scientia Iranica***. https://doi.org/10.24200/sci.2025.66274.9952
 
 
 
